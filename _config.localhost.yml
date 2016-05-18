@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WE Mass Media"
-nav_title                : "Mass Media"
+title                    : "WE Talk"
+nav_title                : "Talk"
 title_separator          : "-"
-name                     : "WE Mass Media"
-description              : "Media. Empowering. Community"
+name                     : "WE Talk"
+description              : "Dialogue. Empowering. Community"
 url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -21,7 +21,7 @@ words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "facebook", "google-plus", custom"
   disqus:
-    shortname            : wemassmedia # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : wetalkbroadcast # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
@@ -36,15 +36,15 @@ yandex_site_verification :
 
 # Social Sharing
 instagram:
-  username               : wemassmedia
+  username               : wetalkbroadcast
 twitter:
-  username               : wemassmedia
+  username               : wetalkbroadcast
 facebook:
-  username               : wemassmedia
+  username               : wetalkbroadcast
   app_id                 :
   publisher              :
 vimeo:
-  username               : wemassmedia
+  username               : wetalkbroadcast
 youtube:
   channel                : UCRcEus8hWkPjY6zFLuy9R6A
 og_image                 : # Open Graph/Twitter default site image
@@ -68,9 +68,9 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "WE Mass Media"
+  name             : "WE Talk"
   avatar           : "bio-we-200x200.png"
-  bio              : "Media. Empowering. Community."
+  bio              : "Dialogue. Empowering. Community."
   location         : "San Jose, California"
   email            :
   uri              :
