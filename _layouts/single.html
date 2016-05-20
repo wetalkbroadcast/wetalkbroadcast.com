@@ -1,14 +1,15 @@
 ---
 layout: default
-author_profile: true
 ---
 
 {% include base_path %}
 
 {% if (page.header.overlay_color or page.header.overlay_image) or page.header.image %}
   {% include page__hero.html %}
-{% else if page.header.video %}
+{% else %}
+{% if page.header.video %}
   {% include page__hero_video.html %}
+{% endif %}
 {% endif %}
 
 {% if page.url != "/" and site.breadcrumbs %}
