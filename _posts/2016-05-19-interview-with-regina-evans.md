@@ -1,27 +1,30 @@
 ---
 title: "Interview with Regina Evans at TBC's Large Group Gathering in Oakland - May 14, 2016"
 author: Justin Too
-comments: true
-layout: single
 header:
   teaser: 2016/05-may/2016-05-19-interview-with-regina-evans-teaser.png
   video: 167367625
-  categories:
-    - Featured
-    - Social Entrepreneur
-    - Human Trafficking
-  tags:
-    - WE Mass Media
-    - Regina Evans
-    - Justin Too
-    - Regina's Door
-    - Social Enterprise
-    - Social Entrepreneur
-    - Human Trafficking
-    - Sex Slavery
-    - Freedom
-    - Transforming the Bay with Christ (TBC)
-  modified: 2016-05-19T21:28:23-07:00
+categories:
+  - Featured
+  - Business
+  - Social Enterprise
+  - Human Trafficking
+  - Freedom
+  - Nonprofits
+  - Causes
+tags:
+  - WE Mass Media
+  - Regina Evans
+  - Justin Too
+  - Regina's Door
+  - Social Enterprise
+  - Social Entrepreneur
+  - Human Trafficking
+  - Sex Slavery
+  - Freedom
+  - Transforming the Bay with Christ (TBC)
+created: 2016-05-14T21:28:23-07:00
+modified: 2016-05-19T21:28:23-07:00
 ---
 
 {% include base_path %}
