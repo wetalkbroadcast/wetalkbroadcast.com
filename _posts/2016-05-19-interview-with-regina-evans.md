@@ -29,7 +29,7 @@ modified: 2016-05-19T21:28:23-07:00
 
 {% include base_path %}
 
-I was filming interviews with the <a href="instagram.com/wemassmedia">@wemassmedia</a> crew at <a href="http://www.tbc.city/">TBC's</a> <a href="https://www.eventbrite.com/e/tbc-large-group-gathering-51416-tickets-20743383017">Large Group Gathering in Oakland on May 14, 2016</a>.
+I was filming interviews with the <a href="http://instagram.com/wemassmedia">@wemassmedia</a> crew at <a href="http://www.tbc.city/">TBC's</a> <a href="https://www.eventbrite.com/e/tbc-large-group-gathering-51416-tickets-20743383017">Large Group Gathering in Oakland on May 14, 2016</a>.
 
 To my delight, I realized that <a href="https://twitter.com/echojustice">Regina Evans</a> of <a href="http://www.reginasdoor.com/">Regina's Door</a> was also at the event through a Facebook post that popped up on my Timeline from <a href="https://twitter.com/nederdave">Dave Nederhood</a>.
 
