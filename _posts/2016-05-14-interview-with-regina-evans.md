@@ -3,7 +3,9 @@ title: "Interview with Regina Evans at TBC's Large Group Gathering in Oakland - 
 author: Justin Too
 header:
   teaser: 2016/05-may/2016-05-19-interview-with-regina-evans-teaser.png
-  video: 167367625
+  video:
+    id: 167367625
+    host: vimeo
 categories:
   - Featured
   - Business

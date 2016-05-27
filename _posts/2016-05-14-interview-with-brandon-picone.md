@@ -3,7 +3,9 @@ title: "Interview with Brandon Picone at TBC's Large Group Gathering in Oakland 
 author: Justin Too
 header:
   teaser: 2016/05-may/2016-05-14-interview-with-brandon-picone-teaser.png
-  video: 167392621
+  video:
+    id: 167392621
+    host: vimeo
 categories:
   - Featured
   - Business

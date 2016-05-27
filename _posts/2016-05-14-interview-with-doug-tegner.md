@@ -3,7 +3,9 @@ title: "Interview with Doug Tegner at TBC's Large Group Gathering in Oakland - M
 author: Justin Too
 header:
   teaser: 2016/05-may/2016-05-14-interview-with-doug-tegner-teaser.png
-  video: 167621475
+  video:
+    id: 167621475
+    host: vimeo
 categories:
   - Featured
   - Business
@@ -57,6 +59,8 @@ And so my home church called me to be the senior pastor nine years ago.
 **Doug**: So about 20 years ago, I started a couple local, youth pastor networks in the Bay Area - in the East Bay. It grew to about five, placed throughout the South Bay and East Bay starting in the mid-90's. And they kind of flourished.
 
 I was asked to be the National Director for the National Network of Youth Ministries. So based out of San Diego, we help start networks both on a local level and also on a city-wide level, and eventually, national level, of youth partnerships in youth ministries.
+
+<!-- more -->
 
 It has been a joy to see the body of Christ come together and work. We have rural networks, urban networks, Native American networks, and then especially, local networks in communities all over America.
 

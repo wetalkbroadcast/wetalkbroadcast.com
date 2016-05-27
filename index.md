@@ -2,7 +2,9 @@
 permalink: /
 title: "WE Talk"
 header:
-  video: 167367625
+  video:
+    id: 167621475
+    host: vimeo
 excerpt: "Dialogue. Empowering. Community."
 layout: home
 modified: 2016-05-02T02:26:33-07:00
