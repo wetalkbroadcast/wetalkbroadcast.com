@@ -2,7 +2,7 @@
 title: "How to combat modern slavery"
 author: Justin Too
 header:
-  teaser: 2016/05-may/2016-05-14-interview-with-doug-tegner-teaser.png
+  teaser: 2016/05-may/2016-05-27-teaser-how-to-combat-modern-slavery.png
   video:
     id: HUM2rCIUdeI
     host: youtube
@@ -101,6 +101,7 @@ WE > me.
 
 ![contact us](/images/2016/05-may/2016-05-27-brian-sparkes.png){: .align-center}
 
+<!-- more -->
 
 # Video Transcript
 
