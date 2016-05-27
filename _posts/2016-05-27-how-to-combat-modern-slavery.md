@@ -69,8 +69,8 @@ Upon awareness and realization of these facts and figures, we must ask ourselves
 
 ## Being the Solution
 
-### Thinking Global, Acting Local
-The state of situation we are in today can be overwhelmingly disheartening at first, but let me encourage you that every thought, deed, prayer, action, and <a href="https://weprovision.com">donation</a> that individuals like you and I make each day makes a world a difference. Our collective action can pave the way for a slave-free Bay Area as we *think global, but act local*.
+### Thinking Globally, Acting Locally
+The state of the situation we are in today can be overwhelmingly disheartening at first, but let me encourage you that every thought, deed, prayer, action, and <a href="https://weprovision.com">donation</a> that individuals like you and I make each day makes a world a difference. Our collective action can pave the way for a slave-free Bay Area as we *think global, but act local*.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/166337942' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
