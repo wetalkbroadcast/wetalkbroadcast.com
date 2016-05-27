@@ -1,4 +1,10 @@
 # main links links
 main:
+  - title: "Business"
+    url: /business/
+  - title: "Faith"
+    url: /faith/
+  - title: "Freedom"
+    url: /freedom/
   - title: "About"
     url: /about/

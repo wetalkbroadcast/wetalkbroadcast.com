@@ -1,0 +1,19 @@
+---
+layout: archive
+permalink: /freedom/
+title: "WE Talk Freedom"
+header:
+  video:
+    id: 167621475
+    host: vimeo
+---
+
+{% include base_path %}
+
+<div class="page__featured">
+  <div class="grid__wrapper">
+  {% for post in site.categories.Freedom %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+  </div>
+</div>
